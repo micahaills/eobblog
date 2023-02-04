@@ -92,3 +92,6 @@ export const pageQuery = graphql`
     }
   }
 `
+curl --include \
+     --request GET \
+     https://cdn.contentful.com/spaces/9m3zsucmb7d7/environments/master/entries/53DPVafaynj4So65vmNIcR?access_token=_MZQ9Vq1CQdtL1S5MmZXoFg4wpbJ4QG8cMFdSAFxYvg
